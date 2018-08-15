@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones">
+        <item>Pesos</item>
+        <item>Dollar</item>
+        <item>Euros</item>
+    </string-array>
+    <string-array name="opciones2">
+        <item>Pesos</item>
+        <item>Dollar</item>
+        <item>Euros</item>
+    </string-array>
+    
+</resources>

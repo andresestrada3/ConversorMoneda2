@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConversorMoneda</string>
+    <string name="miConversor">Mi Conversor de Moneda</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="convertir">Convertir</string>
+    <string name="monedaAcambiar">Moneda Actual</string>
+    <string name="monedaDecambio" >Moneda de Cambio</string>
+    <string name="resultado" />
+</resources>
